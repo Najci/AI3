@@ -14,9 +14,10 @@ This project automatically predicts product categories based on product titles u
 ## How to Use
 
 ### Train the Model
-```bash`
-python train_model.py```
+```py
+python train_model.py
+```
 
 ### Run the model
-```bash
+```py
 python predict_category.py
